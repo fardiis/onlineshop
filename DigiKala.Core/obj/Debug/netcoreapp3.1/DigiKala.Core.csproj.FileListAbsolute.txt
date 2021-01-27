@@ -1,0 +1,15 @@
+C:\Drive\Projects\OnlineTour\DigiKala\DigiKala.Core\bin\Debug\netcoreapp3.1\DigiKala.Core.deps.json
+C:\Drive\Projects\OnlineTour\DigiKala\DigiKala.Core\bin\Debug\netcoreapp3.1\DigiKala.Core.dll
+C:\Drive\Projects\OnlineTour\DigiKala\DigiKala.Core\obj\Debug\netcoreapp3.1\DigiKala.Core.csprojAssemblyReference.cache
+C:\Drive\Projects\OnlineTour\DigiKala\DigiKala.Core\obj\Debug\netcoreapp3.1\DigiKala.Core.AssemblyInfoInputs.cache
+C:\Drive\Projects\OnlineTour\DigiKala\DigiKala.Core\obj\Debug\netcoreapp3.1\DigiKala.Core.AssemblyInfo.cs
+C:\Drive\Projects\OnlineTour\DigiKala\DigiKala.Core\bin\Debug\netcoreapp3.1\DigiKala.Core.runtimeconfig.json
+C:\Drive\Projects\OnlineTour\DigiKala\DigiKala.Core\bin\Debug\netcoreapp3.1\DigiKala.Core.runtimeconfig.dev.json
+C:\Drive\Projects\OnlineTour\DigiKala\DigiKala.Core\bin\Debug\netcoreapp3.1\DigiKala.Core.pdb
+C:\Drive\Projects\OnlineTour\DigiKala\DigiKala.Core\bin\Debug\netcoreapp3.1\DigiKala.DataAccessLayer.dll
+C:\Drive\Projects\OnlineTour\DigiKala\DigiKala.Core\bin\Debug\netcoreapp3.1\DigiKala.DataAccessLayer.pdb
+C:\Drive\Projects\OnlineTour\DigiKala\DigiKala.Core\obj\Debug\netcoreapp3.1\DigiKala.Core.csproj.CopyComplete
+C:\Drive\Projects\OnlineTour\DigiKala\DigiKala.Core\obj\Debug\netcoreapp3.1\DigiKala.Core.dll
+C:\Drive\Projects\OnlineTour\DigiKala\DigiKala.Core\obj\Debug\netcoreapp3.1\DigiKala.Core.pdb
+C:\Drive\Projects\OnlineTour\DigiKala\DigiKala.Core\obj\Debug\netcoreapp3.1\DigiKala.Core.csproj.CoreCompileInputs.cache
+C:\Drive\Projects\OnlineTour\DigiKala\DigiKala.Core\obj\Debug\netcoreapp3.1\DigiKala.Core.genruntimeconfig.cache
